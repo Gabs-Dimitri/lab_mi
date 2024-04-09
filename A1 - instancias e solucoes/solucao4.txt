@@ -1,0 +1,5 @@
+Numero de variaveis = 15
+Numero de restricoes = 20
+Valor da funcao objetivo = 3.0
+Variaveis iguais a 1:
+ x10 x13 x14
